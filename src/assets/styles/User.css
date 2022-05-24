@@ -1,0 +1,11 @@
+.card {
+  max-width: 300px;
+  padding: 1px;
+  margin: 15px;
+}
+
+.card:hover{
+    box-shadow: 0 0 6px rgb(75, 75, 75);
+    cursor: pointer;
+}
+

@@ -1,0 +1,8 @@
+.header-title a {
+  text-decoration: none;
+  color: #0070f3;
+}
+
+.header-title a:hover {
+  text-decoration: underline;
+}
